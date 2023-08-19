@@ -182,8 +182,8 @@ body {
 /* ye bada hone ka kaaran extra classes */
 
 .fadeIn {
-    animation: .5s fadeIn forwards;
-    animation-delay : .5s;
+    animation: .5s fadeIn forwards ease-out;
+    animation-delay :   .5s;
   }
 
 @keyframes fadeIn{
